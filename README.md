@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-# megacorp | good marketing example
+# megacorp
 
-MegaCorp™ is _the_ enterprise Customer Relationship Management (CRM) software.
-=======
-# megacorp | bad marketing example
-
-Unite marketing, sales, and service in a single app. Try MegaCorp Starter Suite today!
->>>>>>> Stashed changes
+The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
